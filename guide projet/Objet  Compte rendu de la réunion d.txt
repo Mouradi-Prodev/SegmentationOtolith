@@ -1,0 +1,34 @@
+Objet : Compte rendu de la réunion du [Date] avec le tuteur - Projet sur le sulcus acusticus de l'otolithe
+
+Cher [Nom du tuteur],
+
+Suite à la réunion d'aujourd'hui concernant notre projet sur "Le sulcus acusticus de l'otolithe à partir d'image 3D pour classifier les poissons par stock/âge", je souhaite présenter un compte rendu des discussions et des points clés abordés lors de la réunion.
+
+1. Présentation du Projet :
+Nous avons commencé la réunion en réitérant l'objectif principal du projet, qui consiste à évaluer la faisabilité d'utiliser le sulcus acusticus de l'otolithe à partir d'images 3D pour classifier les poissons par stock et âge.
+
+2. Présentation des Images du Sulcus Acusticus :
+Le tuteur a partagé des images du sulcus acusticus dans les otolithes, mettant en avant l'importance de ces données pour notre projet. La discussion a porté sur la qualité des images, la résolution et la variabilité des sulcus acusticus entre différentes espèces de poissons.
+
+3. Utilisation des Coefficients de Fourier :
+Le tuteur a souligné la possibilité de réaliser un entraînement du modèle en utilisant les coefficients de Fourier. Cette approche pourrait permettre une représentation numérique des caractéristiques du sulcus acusticus pour l'analyse et la classification des poissons.
+
+4. Méthodologie de Classification :
+Nous avons brièvement discuté des approches possibles pour la classification des poissons en fonction du sulcus acusticus. Le tuteur a suggéré d'explorer les méthodes de machine learning, en mettant l'accent sur l'entraînement du modèle avec les données fournies par les coefficients de Fourier extraits des images 3D.
+
+5. Prochaines Étapes :
+Le tuteur a souligné l'importance de définir clairement les prochaines étapes du projet. Il a suggéré de commencer par l'acquisition de données supplémentaires si nécessaire, suivi de l'extraction des coefficients de Fourier et de l'entraînement du modèle de classification.
+
+6. Ressources Nécessaires :
+Nous avons discuté des ressources nécessaires pour mener à bien le projet, y compris les logiciels, les compétences techniques, et la possibilité de collaboration avec des experts en biologie marine.
+
+7. Échéancier :
+Le tuteur a évoqué l'importance d'établir un échéancier réaliste pour le projet, en tenant compte des délais de collecte de données, de l'analyse et du développement du modèle.
+
+8. Questions et Remarques :
+Nous avons conclu la réunion en encourageant les questions et les remarques. Le tuteur a assuré son soutien continu et a invité l'équipe à le tenir informé de tout problème ou besoin d'assistance.
+
+Actions à Entreprendre :
+Clarifier les exigences en matière de collecte de données.
+Explorer les méthodes d'extraction de coefficients de Fourier à partir des images 3D.
+Définir une méthodologie de classification basée sur l'entraînement du modèle.
